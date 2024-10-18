@@ -9,9 +9,6 @@ import java.util.List;
 
 
 
-
-
-
 public class NetworkCard {
     //所有网卡列表
     List<PcapIf> alldevs = new ArrayList<PcapIf>();
