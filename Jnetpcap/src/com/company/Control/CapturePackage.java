@@ -71,7 +71,7 @@ public class CapturePackage implements Runnable {
         // 捕获数据包计数
         int cnt = 1;
         //我们要发送到处理程序的自定义对象
-        String user = "程哥哥";
+        String user = "wuyifei";
         while (true) {
             //设置抓包速率与间隔
             long startTime = System.currentTimeMillis();
