@@ -7,16 +7,10 @@ import org.jnetpcap.PcapIf;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @ClassName NetworkCard  //类名称
- * @Description: 类描述  用于返回网卡信息
- * @Author: 程哥哥    //作者
- * @CreateDate: 2022/3/26 14:01	//创建时间
- * @UpdateUser: 更新人
- * @UpdateDate: 2022/3/29 20:25	//更新时间
- * @UpdateRemark: 更新的信息
- * @Version: 1.3    //版本号
- */
+
+
+
+
 
 public class NetworkCard {
     //所有网卡列表
